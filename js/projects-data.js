@@ -1,4 +1,5 @@
 const PROJECTS = [
+
   {
     title: "Fergus The Time Cat",
     image: "images/projects/fergus.png",
@@ -28,5 +29,11 @@ const PROJECTS = [
     image: "images/projects/catch.png",
     link: "https://adamedmondson.itch.io/catchontheclock",
 	description: "An endless run & gun shooter about catching rats around a train station.",
+  },
+  {
+    title: "No Steam Ahead",
+    image: "images/projects/soon.png",
+    link: "",
+	description: "Coming Soon.",
   },
 ];
